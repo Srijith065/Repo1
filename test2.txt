@@ -1,0 +1,2 @@
+Created text2.txt locally
+Modified content in text2.txt file
